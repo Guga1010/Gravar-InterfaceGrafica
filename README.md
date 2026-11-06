@@ -1,1 +1,1 @@
-# Gravar nome e um número digitado num arquivo txt
+# Gravar nome e um número digitado em um arquivo .txt
